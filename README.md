@@ -25,7 +25,7 @@ Este projeto é um aplicativo de memórias pessoais onde os usuários podem cria
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/ClaytonLucas/memories_app.git
+git clone https://github.com/ClaytonLucas/memory_app.git
 cd memories_app
 ```
 
